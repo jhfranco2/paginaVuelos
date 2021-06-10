@@ -1,0 +1,22 @@
+/*
+Menu Horizontal
+*/
+*{
+    box-sizing: border-box;
+    margin:0px;
+}
+
+.menuH a {
+background-color: black;
+color:white;
+text-decoration: none;
+float: left;
+width: 16%;
+text-align: center;
+padding: 20px;
+}
+.menuH a:hover{
+background-color: white;
+color:black;
+
+}
